@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Jugador
+comment1.params=nombre
+comment1.target=Jugador(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=java.util.List\ getMano()
+comment4.params=ficha
+comment4.target=void\ agregarFichaAMano(FichaDomino)
+comment5.params=
+comment5.target=int\ calcularPuntosMano()
+numComments=6

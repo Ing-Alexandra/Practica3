@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=FabricaDomino
+comment1.params=mulaMasGrande
+comment1.target=java.util.List\ crearConjuntoDomino(int)
+numComments=2

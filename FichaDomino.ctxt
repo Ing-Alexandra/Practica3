@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FichaDomino
+comment1.params=lado1\ lado2
+comment1.target=FichaDomino(int,\ int)
+comment2.params=
+comment2.target=int\ getLado1()
+comment3.params=
+comment3.target=int\ getLado2()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
